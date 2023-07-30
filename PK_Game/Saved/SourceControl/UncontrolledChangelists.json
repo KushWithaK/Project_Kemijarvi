@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Mode/GM_Lobby.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Level/LV_000.umap",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Kemijarvi.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Data/Save/SG_Settings.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Entity/Living_Base.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Artigen/PC_User.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Data/Save/SG_Player.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Screen/SW_Tutorial.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Addon/WA_Resolution.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Addon/WA_System.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Addon/AW_Resolution.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Addon/AW_System.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Levels/Lobby_00.umap",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/World/Level/Lobby_00.umap",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Artigen/PC_Kemijarvi.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/SW_Tutorial.uasset",
+				"C:/Users/KushWithaK/Documents/GitHub/Project_Kemijarvi/PK_Game/Content/Interface/Addon/WA_Menu.uasset"
+			]
+		}
+	]
+}
